@@ -1,5 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { NgxTypedJsModule } from 'ngx-typed-js';
 
 import { AppComponent } from './app.component';
 import { AboutComponent } from './Components/about/about.component';
@@ -22,7 +24,9 @@ import { SkillsComponent } from './Components/skills/skills.component';
     SkillsComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    NgxTypedJsModule,
+    NgbModule
   ],
   providers: [],
   bootstrap: [AppComponent]

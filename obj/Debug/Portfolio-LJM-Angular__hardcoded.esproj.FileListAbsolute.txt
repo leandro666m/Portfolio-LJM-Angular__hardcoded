@@ -1,2 +1,4 @@
 E:\GITHUB\Portfolio-LJM-Angular__hardcoded\obj\Debug\Portfolio-LJM-Angular__hardcoded.esproj.SuggestedBindingRedirects.cache
 E:\GITHUB\Portfolio-LJM-Angular__hardcoded\obj\Debug\Portfolio-LJM-Angular__hardcoded.esproj.CoreCompileInputs.cache
+D:\GITHUB\Portfolio-LJM-Angular__hardcoded\Portfolio-LJM-Angular__hardcoded\obj\Debug\Portfolio-LJM-Angular__hardcoded.esproj.SuggestedBindingRedirects.cache
+D:\GITHUB\Portfolio-LJM-Angular__hardcoded\Portfolio-LJM-Angular__hardcoded\obj\Debug\Portfolio-LJM-Angular__hardcoded.esproj.CoreCompileInputs.cache
