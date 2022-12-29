@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Portfolio-LJM-Angular__hardcoded", "Portfolio-LJM-Angular__hardcoded.esproj", "{F000362A-655A-4186-B575-D0572434134B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F000362A-655A-4186-B575-D0572434134B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F000362A-655A-4186-B575-D0572434134B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F000362A-655A-4186-B575-D0572434134B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F000362A-655A-4186-B575-D0572434134B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F000362A-655A-4186-B575-D0572434134B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F000362A-655A-4186-B575-D0572434134B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FD58D1-A633-4E66-AC43-4E4B686E6B24}
+	EndGlobalSection
+EndGlobal
